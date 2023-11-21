@@ -17,7 +17,22 @@ Proyecto Integrador de aprendisaje(PIA)
 + [res_op_2].txt
 
 ### reporte excel
-+ [resultads].xlsx (esta en )
++ [resultads].xlsx
+
+### Graficas
++ [TodasLasGraficasOP1].png 
++ [Conversiones USD].png 
++ [graficaDeEuropa].png 
++ [graficaDeOceanía y África].png 
++ [Histograma].png 
++ [HistogramaUA].png 
+
+### Documentacion 
+
++ Diagrama.pdf 
++ EstructurasDeDatos_CA.pdf 
++ requierements.txt 
+
 
   **_El archivo requirements.txt es el archivo en el que estan todas las librerias y sus respectivas versiones que se utilizaron para el proyecto y para que se puedan instalar desde la consola_**
 
